@@ -121,7 +121,7 @@ const Chatbox = () => {
               placeholder="Type your message..."
               borderRadius="xl" 
               height="50px" 
-              paddingRight="80px" 
+              paddingRight="60px" 
               bg="white"
             />
             <InputRightElement
@@ -131,7 +131,7 @@ const Chatbox = () => {
               <Flex alignItems="center" justifyContent="space-between" pr={2} pl={2} pt={1} pb={1}>
 
                 
-                <span style={{ cursor: 'pointer', margin: '4px', marginRight: "10px" ,marginTop: "8px", display: 'inline-block', width: '24px', height: '24px' }}>
+                <span style={{ cursor: 'pointer', margin: '4px', marginRight: "6px" ,marginTop: "8px", display: 'inline-block', width: '24px', height: '24px' }}>
                   <img
                     src="https://img.icons8.com/external-kmg-design-flat-kmg-design/32/000000/external-send-user-interface-kmg-design-flat-kmg-design.png" 
                     alt="send"
