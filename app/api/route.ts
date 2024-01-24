@@ -3,7 +3,7 @@ import { Configuration, OpenAIApi } from "openai-edge";
 
 
 const config = new Configuration({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: "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",
 });
 
 const openai = new OpenAIApi(config);
